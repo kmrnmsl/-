@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_finance"]=self["webpackChunkvue2_finance"]||[]).push([[443],{5830:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var u=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page")])])}],s=t(1001),c={},l=(0,s.Z)(c,u,a,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.65207b50.js.map
